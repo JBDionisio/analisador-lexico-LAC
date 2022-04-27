@@ -1,0 +1,7 @@
+|Pontuacao|		 - Valor: PARENTESES_ESQ
+|Numero|		 - Valor: 48
+|Operador|		 - Valor: SOMA
+|Numero|		 - Valor: 241
+|Pontuacao|		 - Valor: PARENTESES_DIR
+|Operador|		 - Valor: MULTIPLICACAO
+|Numero|		 - Valor: 4

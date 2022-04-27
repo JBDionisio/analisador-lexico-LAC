@@ -1,0 +1,21 @@
+
+E1
+Token: num	 Lex: 4 	 Ocor: L2|C3
+
+E2
+Token: op	 Lex: MULTIPLICACAO 	 Ocor: L2|C3
+
+E3
+Token: pont	 Lex: PARENTESES_DIR 	 Ocor: L2|C3
+
+E4
+Token: num	 Lex: 241 	 Ocor: L2|C3
+
+E5
+Token: op	 Lex: SOMA 	 Ocor: L2|C3
+
+E6
+Token: num	 Lex: 48 	 Ocor: L2|C3
+
+E7
+Token: pont	 Lex: PARENTESES_ESQ 	 Ocor: L2|C3
